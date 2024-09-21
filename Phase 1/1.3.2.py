@@ -1,4 +1,4 @@
-age = 30
+age = int(input("Enter your age: "))
 
 # 1. add ':'   
 # 2. indentation
