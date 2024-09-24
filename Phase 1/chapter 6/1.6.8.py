@@ -35,3 +35,10 @@ print(count)
 
 # len
 print(len(str_1))
+
+# string features
+# 可以容纳多个元素
+# 只可以存储字符串
+# 数据是有序存储的（有下标编号）
+# 允许重复数据存在
+# 不可以修改
