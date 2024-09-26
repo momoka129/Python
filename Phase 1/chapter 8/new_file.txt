@@ -1,0 +1,2 @@
+This is a newly created file.
+We are writing some text into it.
