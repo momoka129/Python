@@ -1,0 +1,17 @@
+Emma, 2022-01-01, 100000, Expense, Official
+Emma, 2022-01-02, 300000, Income, Official
+Emma, 2022-01-03, 100000, Expense, Test
+Olivia, 2022-01-01, 300000, Income, Official
+Olivia, 2022-01-02, 100000, Expense, Test
+Olivia, 2022-01-03, 100000, Expense, Official
+Olivia, 2022-01-04, 100000, Expense, Test
+Olivia, 2022-01-05, 500000, Income, Official
+Sophia, 2022-01-01, 100000, Expense, Official
+Sophia, 2022-01-02, 500000, Income, Official
+Sophia, 2022-01-03, 900000, Income, Test
+Isabella, 2022-01-01, 500000, Expense, Official
+Isabella, 2022-01-02, 300000, Expense, Test
+Isabella, 2022-01-03, 950000, Income, Official
+Mia, 2022-01-01, 300000, Expense, Test
+Mia, 2022-01-02, 100000, Expense, Official
+Mia, 2022-01-03, 300000, Expense, Official
