@@ -1,3 +1,7 @@
+# rdd.reduceByKey(func)
+# func: (T) -> U
+# 1 parameters, return 1 value, any data type
+
 from pyspark import SparkConf, SparkContext
 import os
 os.environ['PYSPARK_PYTHON'] = "C:/Program Files/Python311/python.exe"
